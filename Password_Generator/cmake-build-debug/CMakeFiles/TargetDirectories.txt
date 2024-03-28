@@ -1,0 +1,3 @@
+/Users/danielawi/Desktop/Git_Repository/danawi-comp3356spring2023/assign4_Pass_Gen/cmake-build-debug/CMakeFiles/executable.dir
+/Users/danielawi/Desktop/Git_Repository/danawi-comp3356spring2023/assign4_Pass_Gen/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/danielawi/Desktop/Git_Repository/danawi-comp3356spring2023/assign4_Pass_Gen/cmake-build-debug/CMakeFiles/rebuild_cache.dir
